@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "I NEED U",
+  "base_artist": "BTS (방탄소년단)",
+  "createdAt": "2026-02-12T17:04:31.638133Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Need U",
+      "artist": "Room 5",
+      "has_synced": false,
+      "path": "select/01_I_Need_U_Room_5.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Need U",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/02_I_Need_U_BTS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Need U - Remix",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/03_I_Need_U_-_Remix_BTS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Need U (Remix)",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/04_I_Need_U_(Remix)_BTS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Need U - Urban Mix",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/05_I_Need_U_-_Urban_Mix_BTS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Need U (Urban Mix)",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/06_I_Need_U_(Urban_Mix)_BTS.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Need U",
+      "artist": "Stresshead",
+      "has_synced": true,
+      "path": "select/07_I_Need_U_Stresshead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Like I Need U",
+      "artist": "keshi",
+      "has_synced": true,
+      "path": "select/08_Like_I_Need_U_keshi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I NEED U",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/09_I_NEED_U_BTS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Need U",
+      "artist": "CLC",
+      "has_synced": true,
+      "path": "select/10_I_Need_U_CLC.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Love U, I Want U, I Need U(Sweet Acoustic Ver.)",
+      "artist": "Gu Ha Ra",
+      "has_synced": false,
+      "path": "select/11_I_Love_U,_I_Want_U,_I_Need_U(Sweet_Acoustic_Ver.)_Gu_Ha_Ra.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Like I Need U",
+      "artist": "keshi",
+      "has_synced": true,
+      "path": "select/12_Like_I_Need_U_keshi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Need U",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/13_I_Need_U_BTS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Need U - Japanese Ver.",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/14_I_Need_U_-_Japanese_Ver._BTS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Need U (Japanese Ver.) [Japanese Ver.]",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/15_I_Need_U_(Japanese_Ver.)_[Japanese_Ver.]_BTS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I NEED U",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/16_I_NEED_U_BTS.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "i need u",
+      "artist": "Ken Carson",
+      "has_synced": true,
+      "path": "select/17_i_need_u_Ken_Carson.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "All I Need to Know",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/18_All_I_Need_to_Know_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Want You, I Need You, I Love You",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/19_I_Want_You,_I_Need_You,_I_Love_You_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Right Where I Need to Be",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/20_Right_Where_I_Need_to_Be_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "That's All I Need to Know",
+      "artist": "Alan Jackson",
+      "has_synced": false,
+      "path": "select/21_That's_All_I_Need_to_Know_Alan_Jackson.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "What I Need to Do",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/22_What_I_Need_to_Do_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "You Look Like I Need a Drink",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/23_You_Look_Like_I_Need_a_Drink_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "You Look Like I Need A Drink",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/24_You_Look_Like_I_Need_A_Drink_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "I Need a Beat",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/25_I_Need_a_Beat_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "I Need Love",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/26_I_Need_Love_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "All I Need",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/27_All_I_Need_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "All I Need",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/28_All_I_Need_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "All I Need",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/29_All_I_Need_Radiohead.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I NEED U",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/pl_01_I_NEED_U_BTS.txt"
+    }
+  ]
+}
