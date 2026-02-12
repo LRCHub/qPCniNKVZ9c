@@ -1,0 +1,69 @@
+# BTS (방탄소년단) – I NEED U
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Fall (everything)
+Fall (everything)
+Fall (everything)
+Heuteojine
+Fall (everything)
+Fall (everything)
+Fall (everything)
+Tteoreojine
+
+Neo ttaeme na ireohke mangajyeo
+Geumanhallae ije neo an gajyeo
+Mothagesseo mwot gataseo
+Jebal pinggye gateun geon samgajwo
+
+Niga nahante ireom an dwae
+Niga han modeun mareun andae
+Jinsireul garigo nal jjijeo
+Nal jjigeo na michyeo da sirheo
+Jeonbu gajyeoga nan niga geunyang miwo
+
+But you're my everything (You're my)
+Everything (You're my)
+Everything (You're my)
+Jebal jom kkeojyeo huh
+
+Mianhae (I hate u)
+Saranghae (I hate u)
+Yongseohae
+
+I need you boy
+Wae honja saranghago honjaseoman ibyeolhae
+I need you boy
+Wae dachil geol almyeonseo jakku niga piryohae
+
+I need you boy neon areumdawo
+I need you boy neomu chagawo
+I need you boy (I need you boy)
+I need you boy I need you boy
+
+It goes round & round na wae jakku doraoji
+I go down & down ijjeum doemyeon naega baboji
+Na museun jiseul haebwado eojjeol sugaeobtdago
+Bunmyeong nae simjang, nae maeum, nae gaseuminde
+Wae mareul an deutnyago
+Tto honjatmalhane (tto honjatmalhane)
+Tto honjatmalhane (tto honjatmalhane)
+Neon amu mal an hae a jebal naega jalhalge
+Haneureun tto parahge (haneureun tto parahge)
+
+Haneuri paraeseo haetsari bitnaseo
+Nae nunmuri deo jal boina bwa
+Wae naneun neoinji wae hapil neoinji
+Wae neoreul tteonal suga eobtneunji
+
+I need you boy
+Wae honja saranghago honjaseoman ibyeolhae
+I need you boy
+Wae dachil geol almyeonseo jakku niga piryohae
+
+I need you boy neon areumdawo
+I need you boy neomu chagawo
+I need you boy (I need you boy)
+I need you boy I need you boy
+```
